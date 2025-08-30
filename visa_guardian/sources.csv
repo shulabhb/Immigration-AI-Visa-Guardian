@@ -1,0 +1,71 @@
+enabled,slug,url,selector,drop,visa_tags,section_hint
+1,uscis_students_part_f,https://www.uscis.gov/policy-manual/volume-2-part-f,main,".navbar,.footer,.pm-toc,.usa-accordion","[""F1"",""F2""]",USCIS Policy Manual Vol.2 Part F
+1,uscis_exchange_part_d,https://www.uscis.gov/policy-manual/volume-2-part-d,main,".navbar,.footer,.pm-toc,.usa-accordion","[""J1"",""J2""]",USCIS Policy Manual Vol.2 Part D
+1,uscis_h1b_part_h,https://www.uscis.gov/policy-manual/volume-2-part-h,main,".navbar,.footer,.pm-toc,.usa-accordion","[""H1B"",""H4""]",USCIS Policy Manual Vol.2 Part H
+1,cfr_8_214_2,https://www.law.cornell.edu/cfr/text/8/214.2,main,".nav,.footer,.breadcrumb","[""F1"",""F2"",""H1B"",""H4""]",8 CFR 214.2 (nonimmigrant classes)
+1,cfr_274a_12,https://www.law.cornell.edu/cfr/text/8/274a.12,main,".nav,.footer,.breadcrumb","[""H4""]",8 CFR 274a.12 (employment auth classes)
+1,bridgeusa_programs,https://j1visa.state.gov/programs/,main,".site-header,.site-footer,.breadcrumbs","[""J1"",""J2""]",BridgeUSA programs overview (22 CFR Part 62)
+1,ice_sevis,https://www.ice.gov/sevis,main,".usa-banner,.usa-nav,.footer","[""F1"",""J1""]",SEVP overview and student guidance
+1,cfr_22_part_62,https://www.law.cornell.edu/cfr/text/22/part-62,main,".nav,.footer,.breadcrumb","[""J1"",""J2""]",22 CFR Part 62 (Exchange Visitor Program)
+1,uscis_f_chapter5,https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-5,main,".navbar,.footer,.pm-toc,.usa-accordion","[""F1"",""F2""]","USCIS PM Vol.2 Part F, Chapter 5 - Practical Training"
+1,uscis_f_chapter9,https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-9,main,".navbar,.footer,.pm-toc,.usa-accordion","[""F2""]","USCIS PM Vol.2 Part F, Chapter 9 - Dependents"
+1,uscis_f_chapter3,https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-3,main,".navbar,.footer,.pm-toc,.usa-accordion","[""F1"",""F2""]","USCIS PM Vol.2 Part F, Chapter 3 - Full Course of Study"
+1,uscis_f_chapter6,https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-6,main,".navbar,.footer,.pm-toc,.usa-accordion","[""F1"",""F2""]","USCIS PM Vol.2 Part F, Chapter 6 - Employment"
+1,uscis_vol10_partb_ch2,https://www.uscis.gov/policy-manual/volume-10-part-b-chapter-2,main,".navbar,.footer,.pm-toc,.usa-accordion","[""H4""]","USCIS PM Vol.10 Part B, Ch.2 - H-4 Spouses (c)(26)"
+1,cfr_8_214_1,https://www.law.cornell.edu/cfr/text/8/214.1,main,".nav,.footer,.breadcrumb","[""F1"",""J1"",""H1B"",""H4""]",8 CFR 214.1 (general—including grace periods)
+1,cfr_22_62_23,https://www.law.cornell.edu/cfr/text/22/62.23,main,".nav,.footer,.breadcrumb","[""J1""]",22 CFR 62.23 (College and University Students)
+1,cfr_22_62_12,https://www.law.cornell.edu/cfr/text/22/62.12,main,".nav,.footer,.breadcrumb","[""J1"",""J2""]",22 CFR 62.12 (Spouses and dependents—J-2)
+1,bridgeusa_common_qs,https://j1visa.state.gov/participants/common-questions/,main,".site-header,.site-footer,.breadcrumbs","[""J1"",""J2""]",BridgeUSA - Common Questions
+1,dhs_sits_f2_dependents,https://studyinthestates.dhs.gov/students/resources/f-2-dependents,main,".usa-banner,.usa-nav,.usa-footer","[""F2""]",Study in the States - F-2 Dependents
+1,ecfr_8_214_2_f2,https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/subpart-A/section-214.2,main,".navigation,.footer","[""F2""]",8 CFR 214.2 (F-2 spouse/child incl. (15))
+1,study_states_dependents,https://studyinthestates.dhs.gov/students/get-started/bringing-dependents-to-the-united-states,main,".usa-banner,.site-header,.site-footer","[""F2""]",DHS Study in the States - Bringing Dependents
+1,study_states_f2_study,https://studyinthestates.dhs.gov/trends-and-improvements/policy/f-2-m-2-part-time-study-guidance,main,".usa-banner,.site-header,.site-footer","[""F2""]",DHS Study in the States - F-2/M-2 part-time study
+1,ice_dependents_overview,https://studyinthestates.dhs.gov/sevis-help-hub/student-records/dependents/managing-dependents-overview,main,".usa-banner,.usa-nav,.footer","[""F2""]",SEVP Help Hub - Managing Dependents
+1,state_student_visa,https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html,main,".usa-nav,.footer","[""F2""]",U.S. Dept. of State - Student Visa (F-2 overview)
+1,uscis_h4_employment,https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-4-employment-authorization,main,".navbar,.footer,.pm-toc,.usa-accordion","[""H4""]",USCIS H-4 Employment Authorization
+1,uscis_h4_dependents,https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-4-dependent-spouses-and-children,main,".navbar,.footer,.pm-toc,.usa-accordion","[""H4""]",USCIS H-4 Dependents
+1,ecfr_h4_regulations,https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/subpart-A/section-214.2#p-214.2(h)(9),main,"","[""H4""]",8 CFR 214.2(h)(9) H-4 Dependents
+1,ecfr_274a_12_h4,https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a/subpart-A/section-274a.12#p-274a.12(c)(26),main,"","[""H4""]",8 CFR 274a.12(c)(26) H-4 Employment Authorization
+1,uscis_vol10_partb_ch2_h4,https://www.uscis.gov/policy-manual/volume-10-part-b-chapter-2,main,".navbar,.footer,.pm-toc,.usa-accordion","[""H4""]",USCIS PM Vol.10 Part B, Ch.2 - H-4 Spouses (c)(26)
+1,state_h4_visa,https://travel.state.gov/content/travel/en/us-visas/temporary-employment/temporary-worker-visas/h-visas.html,main,".usa-nav,.footer","[""H4""]",U.S. Dept. of State - H Visas Overview
+1,uscis_h4_faq,https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models,main,".navbar,.footer,.pm-toc,.usa-accordion","[""H1B"",""H4""]",USCIS H-1B/H-4 Overview
+1,ecfr_22_62_1,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.1,main,"","[""J1""]",22 CFR 62.1 (Exchange Visitor Program)
+1,ecfr_22_62_4,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.4,main,"","[""J1""]",22 CFR 62.4 (Sponsor eligibility)
+1,ecfr_22_62_16,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.16,main,"","[""J1""]",22 CFR 62.16 (Employment)
+1,ecfr_22_62_43,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.43,main,"","[""J1""]",22 CFR 62.43 (Duration of participation)
+1,ecfr_22_62_12_j2,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.12,main,"","[""J2""]",22 CFR 62.12 (Spouses and dependents—J-2)
+1,ecfr_22_62_14,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.14,main,"","[""J1"",""J2""]",22 CFR 62.14 (Insurance requirements)
+1,ecfr_22_62_2,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.2,main,"","[""J1"",""J2""]",22 CFR 62.2 (Definitions)
+1,ecfr_22_62_3,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.3,main,"","[""J1""]",22 CFR 62.3 (Sponsor eligibility)
+1,ecfr_22_62_5,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.5,main,"","[""J1""]",22 CFR 62.5 (Application procedure)
+1,ecfr_22_62_6,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.6,main,"","[""J1""]",22 CFR 62.6 (Designation)
+1,ecfr_22_62_7,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.7,main,"","[""J1""]",22 CFR 62.7 (Redesignation)
+1,ecfr_22_62_8,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.8,main,"","[""J1""]",22 CFR 62.8 (General program requirements)
+1,ecfr_22_62_9,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.9,main,"","[""J1""]",22 CFR 62.9 (General obligations of sponsors)
+1,ecfr_22_62_10,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.10,main,"","[""J1""]",22 CFR 62.10 (General obligations of exchange visitors)
+1,ecfr_22_62_11,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.11,main,"","[""J1"",""J2""]",22 CFR 62.11 (Insurance)
+1,ecfr_22_62_13,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.13,main,"","[""J1""]",22 CFR 62.13 (Monitoring and reporting)
+1,ecfr_22_62_15,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.15,main,"","[""J1""]",22 CFR 62.15 (Cross-cultural activities)
+1,ecfr_22_62_17,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-A/section-62.17,main,"","[""J1""]",22 CFR 62.17 (General)
+1,ecfr_22_62_20,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.20,main,"","[""J1""]",22 CFR 62.20 (Professors and research scholars)
+1,ecfr_22_62_21,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.21,main,"","[""J1""]",22 CFR 62.21 (Interns)
+1,ecfr_22_62_22,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.22,main,"","[""J1""]",22 CFR 62.22 (Trainees)
+1,ecfr_22_62_24,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.24,main,"","[""J1""]",22 CFR 62.24 (Teachers)
+1,ecfr_22_62_25,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.25,main,"","[""J1""]",22 CFR 62.25 (Secondary school students)
+1,ecfr_22_62_26,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.26,main,"","[""J1""]",22 CFR 62.26 (Specialists)
+1,ecfr_22_62_27,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.27,main,"","[""J1""]",22 CFR 62.27 (Alien physicians)
+1,ecfr_22_62_28,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.28,main,"","[""J1""]",22 CFR 62.28 (International visitors)
+1,ecfr_22_62_29,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.29,main,"","[""J1""]",22 CFR 62.29 (Government visitors)
+1,ecfr_22_62_30,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.30,main,"","[""J1""]",22 CFR 62.30 (Camp counselors)
+1,ecfr_22_62_31,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.31,main,"","[""J1""]",22 CFR 62.31 (Au pairs)
+1,ecfr_22_62_32,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-B/section-62.32,main,"","[""J1""]",22 CFR 62.32 (Summer work travel)
+1,ecfr_22_62_40,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-C/section-62.40,main,"","[""J1"",""J2""]",22 CFR 62.40 (General)
+1,ecfr_22_62_41,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-C/section-62.41,main,"","[""J1"",""J2""]",22 CFR 62.41 (Program status)
+1,ecfr_22_62_42,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-C/section-62.42,main,"","[""J1"",""J2""]",22 CFR 62.42 (Extension of program)
+1,ecfr_22_62_44,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-C/section-62.44,main,"","[""J1"",""J2""]",22 CFR 62.44 (Transfer)
+1,ecfr_22_62_45,https://www.ecfr.gov/current/title-22/chapter-I/subchapter-G/part-62/subpart-C/section-62.45,main,"","[""J1"",""J2""]",22 CFR 62.45 (Change of category)
+1,state_j1_visa,https://travel.state.gov/content/travel/en/us-visas/study/exchange.html,main,".usa-nav,.footer","[""J1"",""J2""]",U.S. Dept. of State - Exchange Visitor Visa
+1,state_j1_requirements,https://travel.state.gov/content/travel/en/us-visas/study/exchange/requirements.html,main,".usa-nav,.footer","[""J1"",""J2""]",U.S. Dept. of State - J1 Requirements
+1,state_j1_application,https://travel.state.gov/content/travel/en/us-visas/study/exchange/application.html,main,".usa-nav,.footer","[""J1"",""J2""]",U.S. Dept. of State - J1 Application
+1,uscis_j1_waivers,https://www.uscis.gov/working-in-the-united-states/temporary-workers/j-1-exchange-visitor/waiver-of-the-exchange-visitor-two-year-home-country-physical-presence-requirement,main,".navbar,.footer,.pm-toc,.usa-accordion","[""J1""]",USCIS J-1 Waiver Information
+1,uscis_j1_employment,https://www.uscis.gov/working-in-the-united-states/temporary-workers/j-1-exchange-visitor,main,".navbar,.footer,.pm-toc,.usa-accordion","[""J1""]",USCIS J-1 Employment Information
