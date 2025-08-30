@@ -2,7 +2,7 @@
 
 An intelligent AI-powered immigration assistant that provides accurate information about various visa types including F1, F2, H1B, H4, J1, and J2 visas.
 
-## 🚀 Features
+##  Features
 
 - **AI-Powered Chatbot**: Get instant answers to immigration-related questions
 - **Comprehensive Visa Coverage**: Support for F1, F2, H1B, H4, J1, and J2 visas
@@ -10,7 +10,7 @@ An intelligent AI-powered immigration assistant that provides accurate informati
 - **Modern Web Interface**: React-based frontend with TypeScript
 - **FastAPI Backend**: High-performance Python API
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 Immigration AI/
@@ -26,7 +26,7 @@ Immigration AI/
 └── README.md
 ```
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **React 19** with TypeScript
@@ -40,7 +40,7 @@ Immigration AI/
 - **BeautifulSoup4** for web scraping
 - **Uvicorn** for ASGI server
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -61,14 +61,14 @@ pip install -r requirements.txt
 python start_chatbot.py
 ```
 
-## 🚀 Usage
+##  Usage
 
 1. Start the backend server
 2. Start the frontend development server
 3. Open your browser and navigate to the frontend URL
 4. Ask questions about immigration and visa-related topics
 
-## 📚 Data Sources
+##  Data Sources
 
 The system uses data from:
 - Official USCIS documents
@@ -77,7 +77,7 @@ The system uses data from:
 - BridgeUSA programs
 - ICE SEVIS information
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
